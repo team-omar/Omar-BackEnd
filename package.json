@@ -1,0 +1,22 @@
+{
+  "name": "omar-backend",
+  "version": "1.0.0",
+  "description": "The backend for Omar's Hair Salon and Barbershop",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reitersg/Omar-BackEnd.git"
+  },
+  "author": "Scott Reiter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reitersg/Omar-BackEnd/issues"
+  },
+  "homepage": "https://github.com/reitersg/Omar-BackEnd#readme"
+}
